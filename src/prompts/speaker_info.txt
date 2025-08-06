@@ -1,0 +1,26 @@
+You are given a transcript of a multi-speaker meeting. Each line consists of a speaker ID and their corresponding utterance, formatted as:
+
+speaker_id: text
+
+Your task is to analyze all the utterances and extract available personal information about each speaker. This includes, if mentioned or implied:
+- Full name (or first name if full name is not available)
+- Job title or role (e.g., marketing expert, project manager)
+- Estimated age (if stated or implied)
+- Any other relevant demographic or professional information
+
+Please return a JSON dictionary in the following format:
+
+{
+  "speaker_X": {
+    "name": "val",
+    "role": "val",
+    "age": "val",
+    "other": "val"
+  },
+  "speaker_Y": {
+    "name": "val",
+    "role": "val"
+  }
+}
+
+If any information is missing or uncertain, omit the field rather than guessing.

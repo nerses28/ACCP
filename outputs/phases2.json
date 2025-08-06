@@ -1,0 +1,32 @@
+[
+  {
+    "topic": "opening",
+    "start_id": 0,
+    "end_id": 6
+  },
+  {
+    "topic": "project specs and roles of participants",
+    "start_id": 7,
+    "end_id": 33
+  },
+  {
+    "topic": "agenda/equipment issues",
+    "start_id": 34,
+    "end_id": 38
+  },
+  {
+    "topic": "discussion",
+    "start_id": 39,
+    "end_id": 104
+  },
+  {
+    "topic": "drawing exercise",
+    "start_id": 105,
+    "end_id": 262
+  },
+  {
+    "topic": "closing",
+    "start_id": 263,
+    "end_id": 275
+  }
+]

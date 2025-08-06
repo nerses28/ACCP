@@ -1,0 +1,1658 @@
+[
+  {
+    "id": 0,
+    "speaker": "SPEAKER_03",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 1,
+    "speaker": "SPEAKER_03",
+    "text": "Oh, that's not going to work.",
+    "intent": "Be-Negative"
+  },
+  {
+    "id": 2,
+    "speaker": "unknown",
+    "text": "Oh, alright.",
+    "intent": "Be-Positive"
+  },
+  {
+    "id": 3,
+    "speaker": "unknown",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 4,
+    "speaker": "SPEAKER_03",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 5,
+    "speaker": "SPEAKER_03",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 6,
+    "speaker": "SPEAKER_03",
+    "text": "Alright.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 7,
+    "speaker": "SPEAKER_03",
+    "text": "As you all know, we're here to create a brand new fantastic remote.",
+    "intent": "Inform"
+  },
+  {
+    "id": 8,
+    "speaker": "SPEAKER_03",
+    "text": "I'm Nick DeBusk.",
+    "intent": "Inform"
+  },
+  {
+    "id": 9,
+    "speaker": "SPEAKER_03",
+    "text": "I'm the project manager.",
+    "intent": "Inform"
+  },
+  {
+    "id": 10,
+    "speaker": "SPEAKER_03",
+    "text": "We'll just get started with everyone kind of letting each other know who they are",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 11,
+    "speaker": "SPEAKER_00",
+    "text": "and what you're doing, what your role is.",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 12,
+    "speaker": "SPEAKER_00",
+    "text": "Go ahead.",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 13,
+    "speaker": "SPEAKER_00",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 14,
+    "speaker": "SPEAKER_00",
+    "text": "I'm Corinne Whiting, and I will be the marketing expert.",
+    "intent": "Inform"
+  },
+  {
+    "id": 15,
+    "speaker": "SPEAKER_00",
+    "text": "And in each of the three phases, I will have a different role in the function design phase.",
+    "intent": "Inform"
+  },
+  {
+    "id": 16,
+    "speaker": "SPEAKER_00",
+    "text": "I will be talking about user requirements specification, and this means what needs and desires are to be fulfilled, and I'll be doing research to figure this out.",
+    "intent": "Inform"
+  },
+  {
+    "id": 17,
+    "speaker": "SPEAKER_00",
+    "text": "In the conceptual design phase, I will be dealing with trend watching, and I'll be doing marketing research on the web.",
+    "intent": "Inform"
+  },
+  {
+    "id": 18,
+    "speaker": "SPEAKER_00",
+    "text": "And then finally, in the detailed design phase, I will be doing product evaluation,",
+    "intent": "Inform"
+  },
+  {
+    "id": 19,
+    "speaker": "SPEAKER_02",
+    "text": "and so I will be collecting the requirements and ranking all of the requirements to see how we did.",
+    "intent": "Inform"
+  },
+  {
+    "id": 20,
+    "speaker": "SPEAKER_02",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 21,
+    "speaker": "SPEAKER_02",
+    "text": "Hi, I'm Ryan.",
+    "intent": "Inform"
+  },
+  {
+    "id": 22,
+    "speaker": "SPEAKER_02",
+    "text": "I'm the user interface designer.",
+    "intent": "Inform"
+  },
+  {
+    "id": 23,
+    "speaker": "SPEAKER_02",
+    "text": "Likewise, I have three different roles for each stage of the design.",
+    "intent": "Inform"
+  },
+  {
+    "id": 24,
+    "speaker": "SPEAKER_02",
+    "text": "The functional design is looking at the technical functions of remote control.",
+    "intent": "Inform"
+  },
+  {
+    "id": 25,
+    "speaker": "SPEAKER_02",
+    "text": "In the concept design, the user interface, how the user reacts with the product.",
+    "intent": "Inform"
+  },
+  {
+    "id": 26,
+    "speaker": "SPEAKER_01",
+    "text": "And in the detailed design, sort of like the user interface design, what they might be looking for, things like fashions, how we're going to make it special.",
+    "intent": "Inform"
+  },
+  {
+    "id": 27,
+    "speaker": "SPEAKER_01",
+    "text": "That's about it.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 28,
+    "speaker": "SPEAKER_01",
+    "text": "I'm Manuel, and I'm the industrial designer in this project.",
+    "intent": "Inform"
+  },
+  {
+    "id": 29,
+    "speaker": "SPEAKER_01",
+    "text": "In the functional design phase, I'll be dealing mostly with the requirements.",
+    "intent": "Inform"
+  },
+  {
+    "id": 30,
+    "speaker": "SPEAKER_01",
+    "text": "We'll discuss what functions the product has to fulfill and so on and so on.",
+    "intent": "Inform"
+  },
+  {
+    "id": 31,
+    "speaker": "SPEAKER_01",
+    "text": "I suppose we'll work pretty much together on that one.",
+    "intent": "Inform"
+  },
+  {
+    "id": 32,
+    "speaker": "SPEAKER_01",
+    "text": "In the conceptual design, I'll be mostly dealing with properties and materials of our product.",
+    "intent": "Inform"
+  },
+  {
+    "id": 33,
+    "speaker": "SPEAKER_01",
+    "text": "And the detailed design, I'll be concerned with the look and feel of the product itself.",
+    "intent": "Inform"
+  },
+  {
+    "id": 34,
+    "speaker": "SPEAKER_03",
+    "text": "Pretty much working together, obviously, on the design frontier.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 35,
+    "speaker": "SPEAKER_03",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 36,
+    "speaker": "SPEAKER_03",
+    "text": "So, we've got our agenda, the opening acquaintance, which we've kind of done.",
+    "intent": "Inform"
+  },
+  {
+    "id": 37,
+    "speaker": "SPEAKER_03",
+    "text": "Tool training, project plan, discussion, and then closing.",
+    "intent": "Inform"
+  },
+  {
+    "id": 38,
+    "speaker": "SPEAKER_03",
+    "text": "Grand total of 25 minutes we have here.",
+    "intent": "Inform"
+  },
+  {
+    "id": 39,
+    "speaker": "SPEAKER_03",
+    "text": "So, we are putting together a new remote control.",
+    "intent": "Inform"
+  },
+  {
+    "id": 40,
+    "speaker": "SPEAKER_03",
+    "text": "We want it to be something original.",
+    "intent": "Inform"
+  },
+  {
+    "id": 41,
+    "speaker": "SPEAKER_03",
+    "text": "Of course, we're not only an electronics company, but a fashion conscious electronics company.",
+    "intent": "Inform"
+  },
+  {
+    "id": 42,
+    "speaker": "SPEAKER_03",
+    "text": "So, we want it to be trendy.",
+    "intent": "Inform"
+  },
+  {
+    "id": 43,
+    "speaker": "SPEAKER_03",
+    "text": "And we want it to be easy to use.",
+    "intent": "Inform"
+  },
+  {
+    "id": 44,
+    "speaker": "SPEAKER_03",
+    "text": "We've got functional design, conceptual design, and detailed design, which basically is the three of you.",
+    "intent": "Inform"
+  },
+  {
+    "id": 45,
+    "speaker": "SPEAKER_03",
+    "text": "And...",
+    "intent": "Stall"
+  },
+  {
+    "id": 46,
+    "speaker": "SPEAKER_03",
+    "text": "Well, functional design.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 47,
+    "speaker": "SPEAKER_03",
+    "text": "Do we have any ideas of...",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 48,
+    "speaker": "SPEAKER_03",
+    "text": "Maybe let's just throw out some ideas of what kind of remote control we want to have.",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 49,
+    "speaker": "SPEAKER_02",
+    "text": "And then we can go into how we're going to design it and how we're going to do the detailing on it.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 50,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, well, the function of remote control is just to change the channels as its main function.",
+    "intent": "Inform"
+  },
+  {
+    "id": 51,
+    "speaker": "SPEAKER_03",
+    "text": "So, we want it to be a TV remote?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 52,
+    "speaker": "SPEAKER_02",
+    "text": "Or, I mean, do we want it to do other things besides just be a television remote?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 53,
+    "speaker": "SPEAKER_02",
+    "text": "I suppose, trying to make a universal remote could work on all electrical products in one person's house.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 54,
+    "speaker": "SPEAKER_02",
+    "text": "But, you know, they all have the same goal, changing channels, volumes, and then programming.",
+    "intent": "Inform"
+  },
+  {
+    "id": 55,
+    "speaker": "SPEAKER_03",
+    "text": "I think they all work on the same principles as well.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 56,
+    "speaker": "SPEAKER_03",
+    "text": "I doubt I should know.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 57,
+    "speaker": "SPEAKER_03",
+    "text": "Is it just infrared?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 58,
+    "speaker": "SPEAKER_00",
+    "text": "I think, yeah, universal remote.",
+    "intent": "Inform"
+  },
+  {
+    "id": 59,
+    "speaker": "SPEAKER_02",
+    "text": "This is my first go-round with creating remote control.",
+    "intent": "Inform"
+  },
+  {
+    "id": 60,
+    "speaker": "SPEAKER_02",
+    "text": "I think we're all in the same boat here.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 61,
+    "speaker": "SPEAKER_03",
+    "text": "One thing I thought of with remote control is you always lose them.",
+    "intent": "Inform"
+  },
+  {
+    "id": 62,
+    "speaker": "SPEAKER_00",
+    "text": "So, I thought it was a way of finding them quite easily.",
+    "intent": "Inform"
+  },
+  {
+    "id": 63,
+    "speaker": "SPEAKER_03",
+    "text": "So, we should set our remote control up to where it has a tracking device.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 64,
+    "speaker": "SPEAKER_02",
+    "text": "Or, like a whistle, or make a noise.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 65,
+    "speaker": "SPEAKER_02",
+    "text": "It makes a noise. There's a button on the TV that you press.",
+    "intent": "Inform"
+  },
+  {
+    "id": 66,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, they're good.",
+    "intent": "Be-Positive"
+  },
+  {
+    "id": 67,
+    "speaker": "SPEAKER_03",
+    "text": "Generally, all remotes are sort of quite similar in their appearance.",
+    "intent": "Inform"
+  },
+  {
+    "id": 68,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 69,
+    "speaker": "SPEAKER_03",
+    "text": "Do we want, so they're kind of like long and rectangular.",
+    "intent": "Elicit-Comment-Understanding"
+  },
+  {
+    "id": 70,
+    "speaker": "SPEAKER_02",
+    "text": "Do we want something crazy?",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 71,
+    "speaker": "SPEAKER_00",
+    "text": "You know, we want something new that's going to stand out.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 72,
+    "speaker": "SPEAKER_00",
+    "text": "I think so.",
+    "intent": "Assess"
+  },
+  {
+    "id": 73,
+    "speaker": "SPEAKER_00",
+    "text": "A modern, so our remote should be...",
+    "intent": "Inform"
+  },
+  {
+    "id": 74,
+    "speaker": "SPEAKER_02",
+    "text": "It's spherical or something.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 75,
+    "speaker": "SPEAKER_02",
+    "text": "Maybe user-friendly, like a little...",
+    "intent": "Suggest"
+  },
+  {
+    "id": 76,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 77,
+    "speaker": "SPEAKER_02",
+    "text": "Where you can use both hands, like a little keyboard.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 78,
+    "speaker": "SPEAKER_01",
+    "text": "I thought maybe, because people always send a third remote control about the place to one another.",
+    "intent": "Inform"
+  },
+  {
+    "id": 79,
+    "speaker": "SPEAKER_01",
+    "text": "If it was in a ball, and actual controls are inside or something.",
+    "intent": "Inform"
+  },
+  {
+    "id": 80,
+    "speaker": "SPEAKER_01",
+    "text": "Well, there are, of course, certain restrictions.",
+    "intent": "Inform"
+  },
+  {
+    "id": 81,
+    "speaker": "SPEAKER_01",
+    "text": "You can't have it be any form and fulfill all functions at the same time.",
+    "intent": "Assess"
+  },
+  {
+    "id": 82,
+    "speaker": "SPEAKER_01",
+    "text": "There are obviously some restrictions we have to apply here.",
+    "intent": "Inform"
+  },
+  {
+    "id": 83,
+    "speaker": "SPEAKER_01",
+    "text": "However, one question is how stable is that thing supposed to be?",
+    "intent": "Elicit-Assessment"
+  },
+  {
+    "id": 84,
+    "speaker": "SPEAKER_01",
+    "text": "The first of the material, pretty much?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 85,
+    "speaker": "SPEAKER_01",
+    "text": "What are we going to build the thing out of?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 86,
+    "speaker": "SPEAKER_01",
+    "text": "How sturdy is it going to be?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 87,
+    "speaker": "SPEAKER_01",
+    "text": "Do we want it to last longer, or do we want to have people, whatever?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 88,
+    "speaker": "SPEAKER_03",
+    "text": "Okay, so buy one.",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 89,
+    "speaker": "SPEAKER_03",
+    "text": "We want it to be sturdy.",
+    "intent": "Inform"
+  },
+  {
+    "id": 90,
+    "speaker": "SPEAKER_03",
+    "text": "We want it to hold up to somebody's child throwing it across the room.",
+    "intent": "Inform"
+  },
+  {
+    "id": 91,
+    "speaker": "SPEAKER_03",
+    "text": "As you said, people kind of throw it, so ball-shaped.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 92,
+    "speaker": "SPEAKER_03",
+    "text": "If it were ball-shaped, maybe...",
+    "intent": "Suggest"
+  },
+  {
+    "id": 93,
+    "speaker": "unknown",
+    "text": "It could have cased on the outside, and everything could be inside.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 94,
+    "speaker": "SPEAKER_03",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 95,
+    "speaker": "SPEAKER_03",
+    "text": "So we want it to be modern, fun, sturdy.",
+    "intent": "Inform"
+  },
+  {
+    "id": 96,
+    "speaker": "unknown",
+    "text": "So our form and our function, we want it to be easy to find.",
+    "intent": "Inform"
+  },
+  {
+    "id": 97,
+    "speaker": "SPEAKER_03",
+    "text": "What else do we want it to do?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 98,
+    "speaker": "SPEAKER_03",
+    "text": "So we want it to be universal.",
+    "intent": "Inform"
+  },
+  {
+    "id": 99,
+    "speaker": "SPEAKER_03",
+    "text": "It's something that we're supposed to sell for about 25 euros.",
+    "intent": "Inform"
+  },
+  {
+    "id": 100,
+    "speaker": "SPEAKER_03",
+    "text": "And goals for profits are, I think, somewhere around 50 million euros, what they want to make on it.",
+    "intent": "Inform"
+  },
+  {
+    "id": 101,
+    "speaker": "SPEAKER_00",
+    "text": "Also, since we're partners of the International Remote Control Association,",
+    "intent": "Inform"
+  },
+  {
+    "id": 102,
+    "speaker": "SPEAKER_03",
+    "text": "maybe we want to make it something that would globally appeal.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 103,
+    "speaker": "unknown",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 104,
+    "speaker": "SPEAKER_03",
+    "text": "That's more on the research end, but the marketing.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 105,
+    "speaker": "SPEAKER_03",
+    "text": "So marketing, yeah.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 106,
+    "speaker": "SPEAKER_03",
+    "text": "How...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 107,
+    "speaker": "SPEAKER_03",
+    "text": "Maybe marketing, you could find out what is the most universally appealing remote control out there.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 108,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 109,
+    "speaker": "unknown",
+    "text": "Maybe as far as design goes, maybe we could have different ones for different target audiences.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 110,
+    "speaker": "unknown",
+    "text": "Maybe one won't apply to all of the countries we're targeting.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 111,
+    "speaker": "SPEAKER_03",
+    "text": "Do you guys have any ideas for what it should look like?",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 112,
+    "speaker": "SPEAKER_03",
+    "text": "Maybe we could draw it up on the board over there.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 113,
+    "speaker": "SPEAKER_03",
+    "text": "Some ideas.",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 114,
+    "speaker": "unknown",
+    "text": "We want it to be a ball.",
+    "intent": "Inform"
+  },
+  {
+    "id": 115,
+    "speaker": "SPEAKER_02",
+    "text": "I'll go drop.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 116,
+    "speaker": "SPEAKER_02",
+    "text": "We'll drop the ball and maybe where the buttons are located.",
+    "intent": "Inform"
+  },
+  {
+    "id": 117,
+    "speaker": "SPEAKER_02",
+    "text": "My original idea was just simply...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 118,
+    "speaker": "SPEAKER_02",
+    "text": "sort of a sphere where maybe you...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 119,
+    "speaker": "SPEAKER_02",
+    "text": "this is where it's connected together.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 120,
+    "speaker": "SPEAKER_02",
+    "text": "And then when you open it out, it could be a flip, like a flip phone.",
+    "intent": "Inform"
+  },
+  {
+    "id": 121,
+    "speaker": "SPEAKER_02",
+    "text": "And then when you fold it out the middle, maybe a hinge, that would have to be the strongest part of it.",
+    "intent": "Inform"
+  },
+  {
+    "id": 122,
+    "speaker": "SPEAKER_02",
+    "text": "If you did use a hinge, it was just two parts.",
+    "intent": "Inform"
+  },
+  {
+    "id": 123,
+    "speaker": "SPEAKER_02",
+    "text": "And then you'd have just like, you know, your buttons.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 124,
+    "speaker": "SPEAKER_02",
+    "text": "And things inside.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 125,
+    "speaker": "SPEAKER_02",
+    "text": "I think sometimes remotes have too many buttons.",
+    "intent": "Assess"
+  },
+  {
+    "id": 126,
+    "speaker": "SPEAKER_02",
+    "text": "So maybe as simple as possible.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 127,
+    "speaker": "SPEAKER_02",
+    "text": "And as few as possible.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 128,
+    "speaker": "SPEAKER_02",
+    "text": "And then there was the idea for just something.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 129,
+    "speaker": "SPEAKER_02",
+    "text": "Maybe if it had like some kind of light or something or lights around it.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 130,
+    "speaker": "SPEAKER_02",
+    "text": "It's looking a bit like some kind of Star Wars at the moment, though, to be fair.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 131,
+    "speaker": "SPEAKER_02",
+    "text": "But yeah.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 132,
+    "speaker": "SPEAKER_02",
+    "text": "Futures.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 133,
+    "speaker": "SPEAKER_02",
+    "text": "That was just a simple idea I had.",
+    "intent": "Inform"
+  },
+  {
+    "id": 134,
+    "speaker": "SPEAKER_01",
+    "text": "And then you know, you could feel it about...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 135,
+    "speaker": "SPEAKER_01",
+    "text": "it would almost be like a ball.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 136,
+    "speaker": "SPEAKER_01",
+    "text": "So that was just the idea I had.",
+    "intent": "Inform"
+  },
+  {
+    "id": 137,
+    "speaker": "SPEAKER_01",
+    "text": "I don't have anybody else's other ideas.",
+    "intent": "Inform"
+  },
+  {
+    "id": 138,
+    "speaker": "SPEAKER_01",
+    "text": "Right. One problem you'd get with this design is the ball is a nice idea because of its stability.",
+    "intent": "Assess"
+  },
+  {
+    "id": 139,
+    "speaker": "SPEAKER_01",
+    "text": "But of course, since it's a ball, it'll roll.",
+    "intent": "Inform"
+  },
+  {
+    "id": 140,
+    "speaker": "SPEAKER_01",
+    "text": "So you'd have to have it flat on the inside at least.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 141,
+    "speaker": "SPEAKER_02",
+    "text": "Down here somewhere, take away that part.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 142,
+    "speaker": "SPEAKER_01",
+    "text": "That's one of the big issues.",
+    "intent": "Assess"
+  },
+  {
+    "id": 143,
+    "speaker": "SPEAKER_01",
+    "text": "Also you risk the hinges here.",
+    "intent": "Inform"
+  },
+  {
+    "id": 144,
+    "speaker": "unknown",
+    "text": "The idea, they didn't have that cellulite hinge.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 145,
+    "speaker": "unknown",
+    "text": "That was just a good idea.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 146,
+    "speaker": "unknown",
+    "text": "That's interesting, of course, but that's of course a weak point.",
+    "intent": "Assess"
+  },
+  {
+    "id": 147,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 148,
+    "speaker": "SPEAKER_03",
+    "text": "How would we go about making, you know, getting rid of our weak points?",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 149,
+    "speaker": "SPEAKER_03",
+    "text": "What? I mean, would we just have a flat spot on the bottom of the ball?",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 150,
+    "speaker": "SPEAKER_03",
+    "text": "Not to put you on the spot, but...",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 151,
+    "speaker": "SPEAKER_01",
+    "text": "What did you say your title was again?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 152,
+    "speaker": "unknown",
+    "text": "I'm your industrial designer.",
+    "intent": "Inform"
+  },
+  {
+    "id": 153,
+    "speaker": "unknown",
+    "text": "The industrial designer.",
+    "intent": "Inform"
+  },
+  {
+    "id": 154,
+    "speaker": "SPEAKER_01",
+    "text": "So, well, the point is that...",
+    "intent": "Stall"
+  },
+  {
+    "id": 155,
+    "speaker": "SPEAKER_01",
+    "text": "Well, maybe...",
+    "intent": "Stall"
+  },
+  {
+    "id": 156,
+    "speaker": "SPEAKER_01",
+    "text": "I don't know.",
+    "intent": "Stall"
+  },
+  {
+    "id": 157,
+    "speaker": "SPEAKER_01",
+    "text": "The shape is perhaps not the most ideal.",
+    "intent": "Assess"
+  },
+  {
+    "id": 158,
+    "speaker": "SPEAKER_02",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 159,
+    "speaker": "SPEAKER_02",
+    "text": "As stable as it is, there must be a compromise between...",
+    "intent": "Inform"
+  },
+  {
+    "id": 160,
+    "speaker": "SPEAKER_02",
+    "text": "I suppose there needs to be a compromise between design.",
+    "intent": "Inform"
+  },
+  {
+    "id": 161,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, I'm trying to think of the design of others.",
+    "intent": "Stall"
+  },
+  {
+    "id": 162,
+    "speaker": "SPEAKER_03",
+    "text": "I can't think of anything other than the long rectangle.",
+    "intent": "Inform"
+  },
+  {
+    "id": 163,
+    "speaker": "SPEAKER_03",
+    "text": "For him, maybe a small sort of fatter ones, but there's nothing being done sort of out of...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 164,
+    "speaker": "SPEAKER_00",
+    "text": "It's not new, it's not innovative.",
+    "intent": "Be-Negative"
+  },
+  {
+    "id": 165,
+    "speaker": "SPEAKER_00",
+    "text": "Everybody does long remote because it's easy, it's stable.",
+    "intent": "Inform"
+  },
+  {
+    "id": 166,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, I'll draw something.",
+    "intent": "Offer"
+  },
+  {
+    "id": 167,
+    "speaker": "SPEAKER_00",
+    "text": "So, if...",
+    "intent": "Stall"
+  },
+  {
+    "id": 168,
+    "speaker": "SPEAKER_00",
+    "text": "No, go ahead.",
+    "intent": "Stall"
+  },
+  {
+    "id": 169,
+    "speaker": "SPEAKER_00",
+    "text": "My idea was just to have it be kind of like a keyboard type shape, you know, like video games.",
+    "intent": "Inform"
+  },
+  {
+    "id": 170,
+    "speaker": "SPEAKER_00",
+    "text": "So, but maybe...",
+    "intent": "Stall"
+  },
+  {
+    "id": 171,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, that would be kind of big and bulky.",
+    "intent": "Assess"
+  },
+  {
+    "id": 172,
+    "speaker": "SPEAKER_02",
+    "text": "We could also try to do the hinge thing so it could like flip out that way.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 173,
+    "speaker": "unknown",
+    "text": "I don't know.",
+    "intent": "Stall"
+  },
+  {
+    "id": 174,
+    "speaker": "unknown",
+    "text": "That's my idea.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 175,
+    "speaker": "unknown",
+    "text": "I think definitely doing something different is a good idea.",
+    "intent": "Be-Positive"
+  },
+  {
+    "id": 176,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, very design is something that's sort of like...",
+    "intent": "Stall"
+  },
+  {
+    "id": 177,
+    "speaker": "SPEAKER_03",
+    "text": "I suppose not everybody's hand is the same, but something that would maybe fit in the hand easier.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 178,
+    "speaker": "SPEAKER_03",
+    "text": "Something with a grip.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 179,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, a grip.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 180,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, because even, I suppose even with the ball...",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 181,
+    "speaker": "SPEAKER_03",
+    "text": "It might not be the easiest to hold on to.",
+    "intent": "Assess"
+  },
+  {
+    "id": 182,
+    "speaker": "SPEAKER_03",
+    "text": "So, perhaps the joystick, the keyboard idea might work better.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 183,
+    "speaker": "SPEAKER_02",
+    "text": "But then again, people like to use one hand to flip and one hand to hold their soda.",
+    "intent": "Assess"
+  },
+  {
+    "id": 184,
+    "speaker": "SPEAKER_03",
+    "text": "So maybe...",
+    "intent": "Suggest"
+  },
+  {
+    "id": 185,
+    "speaker": "SPEAKER_03",
+    "text": "It's definitely got to be a 100 job.",
+    "intent": "Assess"
+  },
+  {
+    "id": 186,
+    "speaker": "SPEAKER_01",
+    "text": "I feel like I'm just shooting everything down here.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 187,
+    "speaker": "SPEAKER_01",
+    "text": "You're the boss, you're allowed to.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 188,
+    "speaker": "SPEAKER_01",
+    "text": "With one hand design, you also have the problem of the size.",
+    "intent": "Inform"
+  },
+  {
+    "id": 189,
+    "speaker": "SPEAKER_01",
+    "text": "Because you know, from cell phones, they can be too small.",
+    "intent": "Inform"
+  },
+  {
+    "id": 190,
+    "speaker": "unknown",
+    "text": "Yeah.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 191,
+    "speaker": "SPEAKER_03",
+    "text": "The remote is too small.",
+    "intent": "Inform"
+  },
+  {
+    "id": 192,
+    "speaker": "SPEAKER_03",
+    "text": "If it's small, it probably looks better, but it may not be as functional.",
+    "intent": "Assess"
+  },
+  {
+    "id": 193,
+    "speaker": "SPEAKER_03",
+    "text": "So for that, there's...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 194,
+    "speaker": "SPEAKER_03",
+    "text": "Okay, so...",
+    "intent": "Stall"
+  },
+  {
+    "id": 195,
+    "speaker": "SPEAKER_03",
+    "text": "Fortunately, we've got about five minutes here to come up with our remote control idea and start rolling with it.",
+    "intent": "Inform"
+  },
+  {
+    "id": 196,
+    "speaker": "unknown",
+    "text": "We've talked about our experiences with remote control and we've got a couple ideas.",
+    "intent": "Inform"
+  },
+  {
+    "id": 197,
+    "speaker": "SPEAKER_03",
+    "text": "Let's see here.",
+    "intent": "Stall"
+  },
+  {
+    "id": 198,
+    "speaker": "SPEAKER_03",
+    "text": "What if we had not only...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 199,
+    "speaker": "SPEAKER_03",
+    "text": "Say we went with the ball function.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 200,
+    "speaker": "SPEAKER_03",
+    "text": "But maybe we give it sort of grips along the side.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 201,
+    "speaker": "SPEAKER_03",
+    "text": "To make it easier to hold on to.",
+    "intent": "Inform"
+  },
+  {
+    "id": 202,
+    "speaker": "SPEAKER_03",
+    "text": "So it's easier to hold on to that way.",
+    "intent": "Inform"
+  },
+  {
+    "id": 203,
+    "speaker": "SPEAKER_03",
+    "text": "Of course, that'll then remove some of our ball.",
+    "intent": "Inform"
+  },
+  {
+    "id": 204,
+    "speaker": "SPEAKER_03",
+    "text": "Unless this part were raised.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 205,
+    "speaker": "SPEAKER_03",
+    "text": "So say the cover flips over and covers that part.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 206,
+    "speaker": "SPEAKER_03",
+    "text": "So the grip is...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 207,
+    "speaker": "SPEAKER_03",
+    "text": "No, that wouldn't work either.",
+    "intent": "Assess"
+  },
+  {
+    "id": 208,
+    "speaker": "unknown",
+    "text": "But if we're going to make it flat on the bottom, then that eliminates our ball anyways.",
+    "intent": "Assess"
+  },
+  {
+    "id": 209,
+    "speaker": "unknown",
+    "text": "So if it were flat on the bottom and then had the sort of grips on the side here, I guess.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 210,
+    "speaker": "SPEAKER_03",
+    "text": "And then...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 211,
+    "speaker": "SPEAKER_01",
+    "text": "And then we have the problem with the hinge.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 212,
+    "speaker": "SPEAKER_03",
+    "text": "So if we're flat on the bottom, it's not going to roll away, it'll stay where we want.",
+    "intent": "Inform"
+  },
+  {
+    "id": 213,
+    "speaker": "SPEAKER_01",
+    "text": "The question is also, I don't know...",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 214,
+    "speaker": "SPEAKER_01",
+    "text": "Do you really always want to open that thing when you have to use it?",
+    "intent": "Elicit-Assessment"
+  },
+  {
+    "id": 215,
+    "speaker": "SPEAKER_01",
+    "text": "That's true.",
+    "intent": "Assess"
+  },
+  {
+    "id": 216,
+    "speaker": "SPEAKER_01",
+    "text": "It's probably going to lie around open all the time anyway.",
+    "intent": "Assess"
+  },
+  {
+    "id": 217,
+    "speaker": "SPEAKER_01",
+    "text": "So I don't know if a lid is a good idea from a stability point of view.",
+    "intent": "Stall"
+  },
+  {
+    "id": 218,
+    "speaker": "SPEAKER_01",
+    "text": "It certainly is.",
+    "intent": "Assess"
+  },
+  {
+    "id": 219,
+    "speaker": "SPEAKER_01",
+    "text": "But also, you have to face it and take into account the more of these things break by accident.",
+    "intent": "Inform"
+  },
+  {
+    "id": 220,
+    "speaker": "SPEAKER_03",
+    "text": "The more we sell.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 221,
+    "speaker": "SPEAKER_02",
+    "text": "So we don't have it flip open.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 222,
+    "speaker": "SPEAKER_03",
+    "text": "We just have a ball...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 223,
+    "speaker": "SPEAKER_03",
+    "text": "But then maybe go back to the...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 224,
+    "speaker": "SPEAKER_03",
+    "text": "Something along those things.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 225,
+    "speaker": "SPEAKER_03",
+    "text": "Okay.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 226,
+    "speaker": "SPEAKER_03",
+    "text": "So then we forget the ball.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 227,
+    "speaker": "SPEAKER_03",
+    "text": "It looks cool.",
+    "intent": "Assess"
+  },
+  {
+    "id": 228,
+    "speaker": "SPEAKER_03",
+    "text": "It looks cool, but it's really not functional.",
+    "intent": "Assess"
+  },
+  {
+    "id": 229,
+    "speaker": "SPEAKER_03",
+    "text": "So we've got our sort of keyboard kind.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 230,
+    "speaker": "SPEAKER_03",
+    "text": "What if we flipped it around here so that it were...",
+    "intent": "Suggest"
+  },
+  {
+    "id": 231,
+    "speaker": "SPEAKER_03",
+    "text": "Sorry, that doesn't look anything like what you had there.",
+    "intent": "Assess"
+  },
+  {
+    "id": 232,
+    "speaker": "SPEAKER_03",
+    "text": "So it's up and down, you hold it this way.",
+    "intent": "Inform"
+  },
+  {
+    "id": 233,
+    "speaker": "SPEAKER_01",
+    "text": "Of course then it's like the rectangular again only with a couple of jutting out points.",
+    "intent": "Assess"
+  },
+  {
+    "id": 234,
+    "speaker": "SPEAKER_01",
+    "text": "But it's one-handed.",
+    "intent": "Assess"
+  },
+  {
+    "id": 235,
+    "speaker": "SPEAKER_01",
+    "text": "The question is what makes those game pads functional.",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 236,
+    "speaker": "SPEAKER_01",
+    "text": "I think that's pretty much the form for the hand.",
+    "intent": "Assess"
+  },
+  {
+    "id": 237,
+    "speaker": "SPEAKER_01",
+    "text": "So it's a round shape underneath that makes it comfy.",
+    "intent": "Inform"
+  },
+  {
+    "id": 238,
+    "speaker": "SPEAKER_01",
+    "text": "Makes it nice.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 239,
+    "speaker": "SPEAKER_01",
+    "text": "So that's the essential part except for that.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 240,
+    "speaker": "SPEAKER_01",
+    "text": "It will probably not get away from some longer design.",
+    "intent": "Inform"
+  },
+  {
+    "id": 241,
+    "speaker": "SPEAKER_01",
+    "text": "Because you also have to know which way around to point this thing.",
+    "intent": "Inform"
+  },
+  {
+    "id": 242,
+    "speaker": "SPEAKER_01",
+    "text": "Because it doesn't have a cord like joysticks do.",
+    "intent": "Inform"
+  },
+  {
+    "id": 243,
+    "speaker": "SPEAKER_01",
+    "text": "Batteries go weak as well.",
+    "intent": "Inform"
+  },
+  {
+    "id": 244,
+    "speaker": "SPEAKER_01",
+    "text": "So after a while you have to point it towards the equipment you want to control with it.",
+    "intent": "Inform"
+  },
+  {
+    "id": 245,
+    "speaker": "SPEAKER_01",
+    "text": "To show which is the front, which is the back.",
+    "intent": "Fragment"
+  },
+  {
+    "id": 246,
+    "speaker": "SPEAKER_01",
+    "text": "Is it possible to have it to where it would work with a sensor on either side?",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 247,
+    "speaker": "unknown",
+    "text": "So that either way your point in it would work.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 248,
+    "speaker": "unknown",
+    "text": "Of course the more technology you stick in that, the more it will cost.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 249,
+    "speaker": "SPEAKER_01",
+    "text": "More expensive.",
+    "intent": "Assess"
+  },
+  {
+    "id": 250,
+    "speaker": "SPEAKER_01",
+    "text": "Of course you can do that.",
+    "intent": "Inform"
+  },
+  {
+    "id": 251,
+    "speaker": "SPEAKER_01",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 252,
+    "speaker": "SPEAKER_01",
+    "text": "I mean of course it will be evident after a while.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 253,
+    "speaker": "SPEAKER_01",
+    "text": "If you look at it it will be evident which way around to point it.",
+    "intent": "Inform"
+  },
+  {
+    "id": 254,
+    "speaker": "SPEAKER_01",
+    "text": "Since you have the numbers and the buttons and stuff.",
+    "intent": "Inform"
+  },
+  {
+    "id": 255,
+    "speaker": "SPEAKER_01",
+    "text": "It's about an instinctual thing.",
+    "intent": "Inform"
+  },
+  {
+    "id": 256,
+    "speaker": "SPEAKER_01",
+    "text": "You just grab it and you don't have to look at it which way around to point it.",
+    "intent": "Inform"
+  },
+  {
+    "id": 257,
+    "speaker": "SPEAKER_02",
+    "text": "Otherwise the design or the point of putting two sensors on both sides would probably work.",
+    "intent": "Assess"
+  },
+  {
+    "id": 258,
+    "speaker": "SPEAKER_02",
+    "text": "Even if you designed it in a way that isn't a rectangle but still pointed in a direction.",
+    "intent": "Inform"
+  },
+  {
+    "id": 259,
+    "speaker": "SPEAKER_00",
+    "text": "That had a definite point.",
+    "intent": "Assess"
+  },
+  {
+    "id": 260,
+    "speaker": "SPEAKER_03",
+    "text": "So that's your thing.",
+    "intent": "Comment-About-Understanding"
+  },
+  {
+    "id": 261,
+    "speaker": "SPEAKER_03",
+    "text": "Something like that instead.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 262,
+    "speaker": "SPEAKER_03",
+    "text": "You can know which way you're going to point it.",
+    "intent": "Inform"
+  },
+  {
+    "id": 263,
+    "speaker": "SPEAKER_03",
+    "text": "Sorry to interrupt but we have a warning.",
+    "intent": "Inform"
+  },
+  {
+    "id": 264,
+    "speaker": "unknown",
+    "text": "Are we out of time?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 265,
+    "speaker": "unknown",
+    "text": "Okay.",
+    "intent": "Backchannel"
+  },
+  {
+    "id": 266,
+    "speaker": "unknown",
+    "text": "Well, just to finish up should we go with this plan?",
+    "intent": "Elicit-Offer-Or-Suggestion"
+  },
+  {
+    "id": 267,
+    "speaker": "SPEAKER_03",
+    "text": "Start making some...",
+    "intent": "Fragment"
+  },
+  {
+    "id": 268,
+    "speaker": "SPEAKER_03",
+    "text": "Our good ideas what or not?",
+    "intent": "Elicit-Assessment"
+  },
+  {
+    "id": 269,
+    "speaker": "SPEAKER_03",
+    "text": "What does he say for next?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 270,
+    "speaker": "SPEAKER_03",
+    "text": "What do we need to do for next meeting?",
+    "intent": "Elicit-Inform"
+  },
+  {
+    "id": 271,
+    "speaker": "SPEAKER_03",
+    "text": "Finish now.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 272,
+    "speaker": "SPEAKER_03",
+    "text": "And then marketing will look and see what people want.",
+    "intent": "Inform"
+  },
+  {
+    "id": 273,
+    "speaker": "unknown",
+    "text": "Project manager will design a better meeting for the next time around.",
+    "intent": "Inform"
+  },
+  {
+    "id": 274,
+    "speaker": "unknown",
+    "text": "Be a little bit more prepared.",
+    "intent": "Suggest"
+  },
+  {
+    "id": 275,
+    "speaker": "unknown",
+    "text": "All right. Good meeting.",
+    "intent": "Comment-About-Understanding"
+  }
+]

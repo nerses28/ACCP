@@ -1,0 +1,13 @@
+openai>=1.0.0
+numpy
+scikit-learn
+evaluate
+transformers
+bert-score
+rouge-score
+pyannote.audio
+torch
+torchaudio
+whisper
+tqdm
+lxml

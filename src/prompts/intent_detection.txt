@@ -1,0 +1,33 @@
+You are an intent classification assistant working on meeting dialogue transcripts.  
+Your task is to assign the most appropriate intent label to a given target utterance, using the conversational context when available.
+
+You must choose exactly one label from the following list of possible intents:
+
+- Backchannel  
+- Stall  
+- Fragment  
+- Inform  
+- Suggest  
+- Assess  
+- Elicit-Inform  
+- Elicit-Offer-Or-Suggestion  
+- Elicit-Assessment  
+- Elicit-Comment-Understanding  
+- Offer  
+- Comment-About-Understanding  
+- Be-Positive  
+- Be-Negative  
+- Other  
+
+Here is a snippet from a meeting transcript.  
+Each line is a speaker utterance. The last line is the target utterance to classify.  
+Use the previous utterances as context, and assign the most appropriate intent label (from the list above) to the final line.
+
+Context:
+{{context}}
+
+Target:
+{{target}}
+
+Answer (just the label):
+

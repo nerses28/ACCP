@@ -1,0 +1,37 @@
+[
+  {
+    "topic": "opening",
+    "start_id": 0,
+    "end_id": 6
+  },
+  {
+    "topic": "project specs and roles of participants",
+    "start_id": 7,
+    "end_id": 33
+  },
+  {
+    "topic": "agenda/equipment issues",
+    "start_id": 34,
+    "end_id": 38
+  },
+  {
+    "topic": "discussion",
+    "start_id": 39,
+    "end_id": 99
+  },
+  {
+    "topic": "project budget",
+    "start_id": 100,
+    "end_id": 102
+  },
+  {
+    "topic": "discussion",
+    "start_id": 103,
+    "end_id": 265
+  },
+  {
+    "topic": "closing",
+    "start_id": 266,
+    "end_id": 275
+  }
+]
