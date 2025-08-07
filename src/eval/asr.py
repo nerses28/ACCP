@@ -10,25 +10,31 @@ class ASREvaluator:
         self.hyp_path = hyp_path
 
     def load_reference_text(self):
-        all_text = []
-        for fname in sorted(os.listdir(self.ref_dir)):
-            if fname.endswith(".words.xml"):
-                path = os.path.join(self.ref_dir, fname)
-                tree = ET.parse(path)
-                root = tree.getroot()
+        all_words = []
 
-                for word in root.findall(".//w"):
-                    if word.text:
-                        all_text.append(word.text.lower())
+        for fname in os.listdir(self.ref_dir):
+            if not fname.endswith(".words.xml"):
+                continue
 
-        return " ".join(all_text)
+            path = os.path.join(self.ref_dir, fname)
+            tree = ET.parse(path)
+            root = tree.getroot()
+
+            for word in root.findall(".//w"):
+                text = word.text
+                start = word.attrib.get("starttime")
+                if text and start:
+                    all_words.append((float(start), text.lower()))
+
+        all_words.sort(key=lambda x: x[0])
+
+        return " ".join(word for _, word in all_words)
 
     def load_hypothesis_text(self):
         with open(self.hyp_path, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        texts = [seg["text"] for seg in data.get("segments", []) if seg.get("text")]
-        return " ".join(texts).lower()
+        return data["text"].lower()
 
     def evaluate(self):
         print("[ASREval] Loading reference...")

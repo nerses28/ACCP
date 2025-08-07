@@ -4,7 +4,7 @@ from src.eval.topic_segmentation import TopicSegmentationEvaluator
 from src.eval.summary import SummaryEvaluator
 
 if __name__ == "__main__":
-    ref_dir = "data/annotations/"
+    ref_dir = "data/words/"
     hyp_path = "outputs/asr_output.json"
 
     # ASR

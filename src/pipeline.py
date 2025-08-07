@@ -25,7 +25,6 @@ class Pipeline:
 
         print("[Pipeline] Step 2: Diarizing...")
         diarization = self.diarizer.diarize(audio_path)
-
         print("[Pipeline] Step 3: Merging speaker labels...")
         for segment in asr_result["segments"]:
             start, end = segment["start"], segment["end"]
@@ -39,8 +38,6 @@ class Pipeline:
         with open(self.save_path + "/asr_output.json", "w", encoding="utf-8") as f:
             json.dump(asr_result, f, ensure_ascii=False, indent=2)
 
-        with open(self.save_path + "/asr_output2.json", "w", encoding="utf-8") as f:
-            json.dump(asr_result["segments"], f, ensure_ascii=False, indent=2)
 
         print("[Pipeline] Step 4: Merging phrases...")
         utterances = PhraseMerger.merge_segments(asr_result["segments"])
